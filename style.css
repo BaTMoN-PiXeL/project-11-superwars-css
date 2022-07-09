@@ -41,7 +41,6 @@ div{
 
 #parent{
   display: grid;
-  /* grid-template-columns: 200px 100px 200px; */
   grid-template-areas: 'card1 card2 score card3 card4';
   font-family:'Segoe UI';
 }
